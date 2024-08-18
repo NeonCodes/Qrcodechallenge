@@ -5,6 +5,7 @@ text-align: center;
 font-weight: 700;
 border:100px;
 word-spacing: 0.5px;
+padding-left, padding-right: ;: 20px;
 }
 
 p{
@@ -19,12 +20,12 @@ image{
    /* min-width: 375px;*/
     width: 1140px;
     background-color: hsl(0%,0%,100%);
-    padding: 200px;
+    padding: 20px;
     border-style: none;
     margin:auto;
 }
 
-h1, p{
+h1,p{
     font-family:Outfit, sans-serif
 }
 
