@@ -14,12 +14,13 @@ font-size: 40px;
     font-weight: 400;
 }
 
-image{
+img{
    /* min-width: 375px;*/
     background-color: hsl(0%,0%,100%);
-    padding: 20px;
+    padding: 10px;
     border-style: none;
     margin:auto;
+    border-radius: 10%;
 }
 
 .box{
