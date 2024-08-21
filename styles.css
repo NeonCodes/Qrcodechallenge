@@ -11,9 +11,9 @@ padding-left, padding-right: ;: 20px;
 p{
     color: grey;
     font-size: 15px;
-text-align: center;
-font-weight: 400;
-padding:20px;
+    text-align: center;
+    font-weight: 400;
+    padding:20px;
 }
 
 image{
@@ -31,5 +31,4 @@ h1,p{
 
 body{
     text-align: center;
-    ;
 }
