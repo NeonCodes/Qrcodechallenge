@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    max-width:1140px;
   }
     
 h1{
@@ -33,6 +32,7 @@ img{
     padding: 10px;
     box-sizing: border-box;
     overflow: auto;
+    max-width:1140px;
 }
 
 body{
