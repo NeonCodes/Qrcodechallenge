@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
+
 body{
     background-color: hsl(212, 45%, 89%);
     font-family:"Outfit", sans-serif;
@@ -26,6 +26,7 @@ line-height: 120%;
     font-weight: 400;
     line-height: 140%;
     letter-spacing: 0.2px;
+    padding-top: 20px;
 }
 
 img{
@@ -35,6 +36,7 @@ img{
 
 .box{
     overflow: auto;
+    padding: 10px;
 }
 
 .flex-container{
@@ -44,7 +46,6 @@ img{
   padding: 15px;
   background-color: hsl(0, 0%, 100%);
   width: 100%;
-  max-width:1140px;
   display: flex;
     display: -webkit-box;
     display: -ms-flexbox;
