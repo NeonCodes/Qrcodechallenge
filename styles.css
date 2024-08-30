@@ -16,9 +16,7 @@ color: hsl(212, 45%, 89%) hsl(216, 15%, 48%) hsl(218, 44%, 22%) ;
 
 img{
    /* min-width: 375px;*/
-    background-color: hsl(0%,0%,100%);
     padding: 10px;
-    border-style: none;
     margin:auto;
     border-radius: 10%;
 }
@@ -26,14 +24,12 @@ img{
 .box{
     font-family:Outfit, sans-serif;
     padding: 10px;
-    border: 1px;
-    display: block;
     box-sizing: border-box;
     overflow: auto;
 }
 
 *{
-    text-align: center;
+
     max-width:1140px;
 }
 
