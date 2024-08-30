@@ -43,7 +43,7 @@ img{
 
 .flex-container{
   max-width: 320px;
-  height: 499px;
+  max-height: 499px;
   border-radius: 15px; 
   padding: 15px;
   background-color: hsl(0, 0%, 100%);
@@ -62,5 +62,4 @@ img{
   -webkit-box-align: center; 
   -ms-flex-align: center;
   align-items: center;
-  min-height: 100vh;
 }
