@@ -14,7 +14,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./solutionscreenshot.png)
+![](./solutionscreenshot.png) /*First solution*/
+/*Second Solution*/
 
 ### Links
 
@@ -26,8 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML5 markup
-- CSS stylesheets
-- desktop-first workflow
+- CSS stylesheets and flexbox
 
 
 ### What I learned
