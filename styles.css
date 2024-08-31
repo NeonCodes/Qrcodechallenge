@@ -9,6 +9,20 @@
 body{
     background-color: hsl(212, 45%, 89%);
     font-family:"Outfit", sans-serif;
+    display: flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center; 
+  -ms-flex-align: center;
+  align-items: center;
 }
   
 h1{
@@ -30,17 +44,11 @@ p{
 }
 
 img{
-   /* min-width: 375px;*/
     border-radius: 10%;
     width: 288px;
     height: 288px;
     padding-bottom: 10px;
     width: 100%;
-}
-
-.box{
-    overflow: auto;
-    padding: 10px;
 }
 
 .flex-container{
@@ -49,18 +57,4 @@ img{
   border-radius: 15px; 
   padding: 15px;
   background-color: hsl(0, 0%, 100%);
-  display: flex;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: center; 
-  -ms-flex-align: center;
-  align-items: center;
 }
