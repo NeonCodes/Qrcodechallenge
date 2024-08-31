@@ -49,6 +49,11 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ### Continued development
 I realised while I got HTML basics mostly covered, I still need to work more on CSS(especially the box model and more flexbox)
 
+
+### Acknowledgements
+Thank you to the Frontend Mentor users who left feedback in my first solution: 
+
+
 ### Useful resources
 
 - [Microsoft Edge](the search engine)- This helped me, along with Copilot, to find solutions to simpler coding problems:  line breaks(1st solution submitted),Css basic reset
@@ -65,3 +70,5 @@ I realised while I got HTML basics mostly covered, I still need to work more on 
 [Calculatorway]
 (https://www.calculatorway.com/px-to-rem-converter/)- To convert px to rem.
 
+[CSSReset]
+https://piccalil.li/blog/a-more-modern-css-reset/
