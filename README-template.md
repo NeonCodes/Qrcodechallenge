@@ -51,7 +51,7 @@ I realised while I got HTML basics mostly covered, I still need to work more on 
 
 
 ### Acknowledgements
-Thank you to the Frontend Mentor users who left feedback in my first solution: 
+Thank you to the Frontend Mentor users who left feedback in my first solution!
 
 
 ### Useful resources
