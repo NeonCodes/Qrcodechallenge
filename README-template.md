@@ -42,12 +42,6 @@ Solution 2
 1- Receiving feedback and having the right resources can save a huge a amount of time
 2- I should have used the complete Figma design file from the start (didn't notice there were multiple pages to it at first)
 
-To see how you can add code snippets, see below:
-
-```css
-proud of 
-
-```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
